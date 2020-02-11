@@ -1,0 +1,19 @@
+body{
+	min-height:100vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.colorBtn{
+	text-transform:capitalize;
+	padding:0.5rem 1rem;
+	border:3px solid #88e5d9;
+	border-radius:7px;
+	background:#777;
+	color:#fff;
+	font-size:18px;
+	outline:none;
+}
+.colorBtn:hover{
+	background:#000;
+}
